@@ -1,0 +1,21 @@
+# ninja log v5
+52	63	1776247296412971221	uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-install	a59618b72fdc60e3
+46	52	1776247296400975455	/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-build	348730b701cd3188
+63	70	1776247296416969811	/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-test	c134c12a23c9464c
+41	46	1776247296396976866	uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-configure	b20249c5384e38f5
+46	52	1776247296400975455	uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-build	348730b701cd3188
+35	41	1776247296388979689	/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-patch	e1824ecc4f7dac81
+29	35	1776247296384981100	/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-update	52de95e2c72d7dae
+70	79	1776247296428965577	/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-done	5aa0e8796b300599
+70	79	1776247296428965577	/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/CMakeFiles/uwebsockets-populate-complete	5aa0e8796b300599
+0	6	1776247296356990981	uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-mkdir	e062e9ff6304c2df
+0	6	1776247296356990981	/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-mkdir	e062e9ff6304c2df
+70	79	1776247296428965577	CMakeFiles/uwebsockets-populate-complete	5aa0e8796b300599
+6	29	1776247296376983923	uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-download	f98a068e1348fad5
+52	63	1776247296412971221	/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-install	a59618b72fdc60e3
+35	41	1776247296388979689	uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-patch	e1824ecc4f7dac81
+41	46	1776247296396976866	/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-configure	b20249c5384e38f5
+70	79	1776247296428965577	uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-done	5aa0e8796b300599
+6	29	1776247296376983923	/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-download	f98a068e1348fad5
+63	70	1776247296416969811	uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-test	c134c12a23c9464c
+29	35	1776247296384981100	uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-update	52de95e2c72d7dae

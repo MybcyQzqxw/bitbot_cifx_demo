@@ -1,0 +1,3 @@
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-subbuild/CMakeFiles/readerwriterqueue-populate.dir
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-subbuild/CMakeFiles/edit_cache.dir
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-subbuild/CMakeFiles/rebuild_cache.dir

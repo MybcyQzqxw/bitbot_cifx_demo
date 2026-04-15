@@ -1,0 +1,21 @@
+# ninja log v5
+49	53	1776247294273774570	/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	c6ee5cf1b11add3a
+53	58	1776247294281771431	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	74deca08bacd1d45
+42	49	1776247294269776140	/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	4f77bb8d09f3181c
+7	31	1776247294253782418	/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	7c37d25893f14ea7
+36	42	1776247294261779278	/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	14d927c02c091f2d
+49	53	1776247294273774570	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	c6ee5cf1b11add3a
+36	42	1776247294261779278	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	14d927c02c091f2d
+64	72	1776247294293766723	/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	92f52d6d8ef6b10
+64	72	1776247294293766723	/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate-complete	92f52d6d8ef6b10
+64	72	1776247294293766723	CMakeFiles/spdlog-populate-complete	92f52d6d8ef6b10
+58	64	1776247294285769861	/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	84ecd32677c86898
+58	64	1776247294285769861	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	84ecd32677c86898
+53	58	1776247294281771431	/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	74deca08bacd1d45
+0	7	1776247294229791835	/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	ab71e66ffd659385
+42	49	1776247294269776140	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	4f77bb8d09f3181c
+0	7	1776247294229791835	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	ab71e66ffd659385
+7	31	1776247294253782418	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	7c37d25893f14ea7
+31	36	1776247294257780848	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	254d6169174a2cbc
+64	72	1776247294293766723	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	92f52d6d8ef6b10
+31	36	1776247294257780848	/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	254d6169174a2cbc

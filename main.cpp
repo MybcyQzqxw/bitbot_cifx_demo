@@ -1,0 +1,49 @@
+#include "bitbot_cifx/kernel/cifx_kernel.hpp"
+#include "bitbot_kernel/utils/cpu_affinity.h"
+#include "bitbot_kernel/utils/priority.h"
+
+#include "user_func.h"
+
+#define _USE_MATH_DEFINES
+#include <math.h>
+#include <sys/mman.h>
+
+int main(int argc, char const *argv[])
+{
+	if (mlockall(MCL_CURRENT | MCL_FUTURE) == -1)
+	{
+		printf("mlockall failed: \n");
+		if (errno == ENOMEM)
+		{
+			printf("\nIt is likely your user does not have enough memory limits, you can change the limits by adding the "
+						 "following line to /etc/security/limits.conf:\n\n");
+		}
+		return -1;
+	}
+	if (!setProcessHighPriority(90))
+	{
+		printf("Failed to set process scheduling policy\n");
+		return -1;
+	}
+
+	CifxKernel kernel("../../sc_arm.xml");
+
+	kernel.RegisterConfigFunc(ConfigFunc);
+
+	kernel.RegisterEvent("do_test", static_cast<bitbot::EventId>(Events::DoTest), [](bitbot::EventValue, UserData &)
+											 { return static_cast<bitbot::StateId>(States::InitPos); });
+
+	kernel.RegisterEvent("change_mode", static_cast<bitbot::EventId>(Events::ChangeMode), [](bitbot::EventValue, UserData &)
+											 { return static_cast<bitbot::StateId>(States::ChangeMode); });
+
+	kernel.RegisterState("waiting", static_cast<bitbot::StateId>(States::Waiting), &StateWaiting, {static_cast<bitbot::EventId>(Events::DoTest), static_cast<bitbot::EventId>(Events::ChangeMode)});
+
+	kernel.RegisterState("init_pos", static_cast<bitbot::StateId>(States::InitPos), &StateInitPos, {});
+
+	kernel.RegisterState("change mode", static_cast<bitbot::StateId>(States::ChangeMode), &StateChangeMode, {static_cast<bitbot::EventId>(Events::DoTest)});
+
+	kernel.SetFirstState(static_cast<bitbot::StateId>(States::Waiting));
+
+	kernel.Run();
+	return 0;
+}

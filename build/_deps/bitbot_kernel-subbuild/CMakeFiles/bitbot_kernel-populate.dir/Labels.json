@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-subbuild/CMakeFiles/bitbot_kernel-populate"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-subbuild/CMakeFiles/bitbot_kernel-populate.rule"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-subbuild/CMakeFiles/bitbot_kernel-populate-complete.rule"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-subbuild/bitbot_kernel-populate-prefix/src/bitbot_kernel-populate-stamp/bitbot_kernel-populate-build.rule"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-subbuild/bitbot_kernel-populate-prefix/src/bitbot_kernel-populate-stamp/bitbot_kernel-populate-configure.rule"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-subbuild/bitbot_kernel-populate-prefix/src/bitbot_kernel-populate-stamp/bitbot_kernel-populate-download.rule"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-subbuild/bitbot_kernel-populate-prefix/src/bitbot_kernel-populate-stamp/bitbot_kernel-populate-install.rule"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-subbuild/bitbot_kernel-populate-prefix/src/bitbot_kernel-populate-stamp/bitbot_kernel-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-subbuild/bitbot_kernel-populate-prefix/src/bitbot_kernel-populate-stamp/bitbot_kernel-populate-patch.rule"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-subbuild/bitbot_kernel-populate-prefix/src/bitbot_kernel-populate-stamp/bitbot_kernel-populate-test.rule"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-subbuild/bitbot_kernel-populate-prefix/src/bitbot_kernel-populate-stamp/bitbot_kernel-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bitbot_kernel-populate"
+		],
+		"name" : "bitbot_kernel-populate"
+	}
+}

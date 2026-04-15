@@ -1,0 +1,21 @@
+# ninja log v5
+44	48	1776247296293013560	usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-build	8bfddc1d5ff12ccf
+49	54	1776247296297012150	usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-install	8f501675591a5eb2
+39	43	1776247296285016383	usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-configure	25403003e1480f0e
+44	48	1776247296293013560	/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-build	8bfddc1d5ff12ccf
+31	39	1776247296281017794	/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-patch	55ded4fd79237c0b
+55	61	1776247296305009326	/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-test	fcd27789289f03df
+61	69	1776247296313006505	/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/CMakeFiles/usockets-populate-complete	8a3465968a13a91f
+0	8	1776247296249029085	/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-mkdir	6b2b7edce8fff27a
+61	69	1776247296313006505	usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-done	8a3465968a13a91f
+61	69	1776247296313006505	CMakeFiles/usockets-populate-complete	8a3465968a13a91f
+49	54	1776247296297012150	/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-install	8f501675591a5eb2
+0	8	1776247296249029085	usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-mkdir	6b2b7edce8fff27a
+39	43	1776247296285016383	/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-configure	25403003e1480f0e
+55	61	1776247296305009326	usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-test	fcd27789289f03df
+26	31	1776247296273020617	usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-update	da2bfd7aef312afc
+31	39	1776247296281017794	usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-patch	55ded4fd79237c0b
+8	26	1776247296269022028	/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-download	76f9918e25d84aa5
+8	26	1776247296269022028	usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-download	76f9918e25d84aa5
+26	31	1776247296273020617	/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-update	da2bfd7aef312afc
+61	69	1776247296313006505	/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-done	8a3465968a13a91f

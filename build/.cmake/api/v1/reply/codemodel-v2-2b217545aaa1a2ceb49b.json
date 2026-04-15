@@ -1,0 +1,636 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						30
+					]
+				},
+				{
+					"build" : "_deps/bitbot_cifx-build",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.bitbot_cifx-build-Release-1965bf1e3b636acd563e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "build/_deps/bitbot_cifx-src",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "_deps/bitbot_kernel-build",
+					"childIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.bitbot_kernel-build-Release-26634ec95b35f7deacba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "build/_deps/bitbot_kernel-src",
+					"targetIndexes" : 
+					[
+						1,
+						33
+					]
+				},
+				{
+					"build" : "_deps/pugixml-build",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.pugixml-build-Release-f80562c396baf4ff7c01.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 3,
+					"source" : "build/_deps/pugixml-src",
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						31
+					]
+				},
+				{
+					"build" : "_deps/readerwriterqueue-build",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.readerwriterqueue-build-Release-70c2c693f5fa2020df15.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.9"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 4,
+					"source" : "build/_deps/readerwriterqueue-src"
+				},
+				{
+					"build" : "_deps/spdlog-build",
+					"jsonFile" : "directory-_deps.spdlog-build-Release-d181af2f4b0016529c30.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 5,
+					"source" : "build/_deps/spdlog-src",
+					"targetIndexes" : 
+					[
+						32
+					]
+				},
+				{
+					"build" : "_deps/concurrentqueue-build",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.concurrentqueue-build-Release-bd3bc914b5eb05cc3d0f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.9"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 6,
+					"source" : "build/_deps/concurrentqueue-src"
+				},
+				{
+					"build" : "_deps/glaze-build",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.glaze-build-Release-b7b6a9bf09b96102eb4a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 7,
+					"source" : "build/_deps/glaze-src"
+				},
+				{
+					"build" : "_deps/libuv-build",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.libuv-build-Release-44dfba229d36aa4bd0b7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.9"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 8,
+					"source" : "build/_deps/libuv-src",
+					"targetIndexes" : 
+					[
+						34
+					]
+				},
+				{
+					"build" : "_deps/zlib-build",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.zlib-build-Release-b67798f04715a2335abb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.4.4"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 9,
+					"source" : "build/_deps/zlib-src",
+					"targetIndexes" : 
+					[
+						35,
+						36
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bitbot",
+					"targetIndexes" : 
+					[
+						30
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "bitbot_cifx",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "bitbot_kernel",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						1,
+						33
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "pugixml",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						31
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "readerwriterqueue",
+					"parentIndex" : 2
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "spdlog",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						32
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "concurrentqueue",
+					"parentIndex" : 2
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "glaze",
+					"parentIndex" : 2
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "libuv",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						34
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "zlib",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						35,
+						36
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "BitbotCifx::@25606fd5ec79ae29a81b",
+					"jsonFile" : "target-BitbotCifx-Release-58ea07a40186504cc082.json",
+					"name" : "BitbotCifx",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "BitbotKernel::@0b2d1d428fc2c28b404f",
+					"jsonFile" : "target-BitbotKernel-Release-add61b19597db7618042.json",
+					"name" : "BitbotKernel",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Continuous::@ec157c7f07670d922be3",
+					"jsonFile" : "target-Continuous-Release-dda09631fbae45f6f378.json",
+					"name" : "Continuous",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ContinuousBuild::@ec157c7f07670d922be3",
+					"jsonFile" : "target-ContinuousBuild-Release-cd0471cab8a3738743b7.json",
+					"name" : "ContinuousBuild",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ContinuousConfigure::@ec157c7f07670d922be3",
+					"jsonFile" : "target-ContinuousConfigure-Release-b8334a349a9d1e5d6e2b.json",
+					"name" : "ContinuousConfigure",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ContinuousCoverage::@ec157c7f07670d922be3",
+					"jsonFile" : "target-ContinuousCoverage-Release-b12af51940e38b5ac84d.json",
+					"name" : "ContinuousCoverage",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ContinuousMemCheck::@ec157c7f07670d922be3",
+					"jsonFile" : "target-ContinuousMemCheck-Release-9ceaecc5173b92b9e365.json",
+					"name" : "ContinuousMemCheck",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ContinuousStart::@ec157c7f07670d922be3",
+					"jsonFile" : "target-ContinuousStart-Release-1cea44c981304a1d8b5b.json",
+					"name" : "ContinuousStart",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ContinuousSubmit::@ec157c7f07670d922be3",
+					"jsonFile" : "target-ContinuousSubmit-Release-3d5fc3f93d252411f7d2.json",
+					"name" : "ContinuousSubmit",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ContinuousTest::@ec157c7f07670d922be3",
+					"jsonFile" : "target-ContinuousTest-Release-74b14fe59b41055ba179.json",
+					"name" : "ContinuousTest",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ContinuousUpdate::@ec157c7f07670d922be3",
+					"jsonFile" : "target-ContinuousUpdate-Release-d3318daad33b73312f94.json",
+					"name" : "ContinuousUpdate",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Experimental::@ec157c7f07670d922be3",
+					"jsonFile" : "target-Experimental-Release-36e9e7d1807c4ad712c1.json",
+					"name" : "Experimental",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ExperimentalBuild::@ec157c7f07670d922be3",
+					"jsonFile" : "target-ExperimentalBuild-Release-8e5be39a84be18b68378.json",
+					"name" : "ExperimentalBuild",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ExperimentalConfigure::@ec157c7f07670d922be3",
+					"jsonFile" : "target-ExperimentalConfigure-Release-c935594007f1dbc4f057.json",
+					"name" : "ExperimentalConfigure",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ExperimentalCoverage::@ec157c7f07670d922be3",
+					"jsonFile" : "target-ExperimentalCoverage-Release-2a47c27903dfe01bd4c7.json",
+					"name" : "ExperimentalCoverage",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ExperimentalMemCheck::@ec157c7f07670d922be3",
+					"jsonFile" : "target-ExperimentalMemCheck-Release-b28b01e69547d715c6e1.json",
+					"name" : "ExperimentalMemCheck",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ExperimentalStart::@ec157c7f07670d922be3",
+					"jsonFile" : "target-ExperimentalStart-Release-647f504dc49fe29f0b5b.json",
+					"name" : "ExperimentalStart",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ExperimentalSubmit::@ec157c7f07670d922be3",
+					"jsonFile" : "target-ExperimentalSubmit-Release-72131b020aec21906906.json",
+					"name" : "ExperimentalSubmit",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ExperimentalTest::@ec157c7f07670d922be3",
+					"jsonFile" : "target-ExperimentalTest-Release-6ab1c6fa8334e3c485d7.json",
+					"name" : "ExperimentalTest",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ExperimentalUpdate::@ec157c7f07670d922be3",
+					"jsonFile" : "target-ExperimentalUpdate-Release-267dd0d58f847514f4f6.json",
+					"name" : "ExperimentalUpdate",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Nightly::@ec157c7f07670d922be3",
+					"jsonFile" : "target-Nightly-Release-1e7240d920e474e4eb58.json",
+					"name" : "Nightly",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "NightlyBuild::@ec157c7f07670d922be3",
+					"jsonFile" : "target-NightlyBuild-Release-730dbfd6565f61a67e02.json",
+					"name" : "NightlyBuild",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "NightlyConfigure::@ec157c7f07670d922be3",
+					"jsonFile" : "target-NightlyConfigure-Release-8bccec8a5c8297f30d58.json",
+					"name" : "NightlyConfigure",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "NightlyCoverage::@ec157c7f07670d922be3",
+					"jsonFile" : "target-NightlyCoverage-Release-c4febc90a3456f6bd83d.json",
+					"name" : "NightlyCoverage",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "NightlyMemCheck::@ec157c7f07670d922be3",
+					"jsonFile" : "target-NightlyMemCheck-Release-396f841f3e1ba4d55ba1.json",
+					"name" : "NightlyMemCheck",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "NightlyMemoryCheck::@ec157c7f07670d922be3",
+					"jsonFile" : "target-NightlyMemoryCheck-Release-bfa5c1c15f2430ecffdc.json",
+					"name" : "NightlyMemoryCheck",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "NightlyStart::@ec157c7f07670d922be3",
+					"jsonFile" : "target-NightlyStart-Release-8ac70635ffb4c48b45a5.json",
+					"name" : "NightlyStart",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "NightlySubmit::@ec157c7f07670d922be3",
+					"jsonFile" : "target-NightlySubmit-Release-536fbb1f2ec0cf9ae6fe.json",
+					"name" : "NightlySubmit",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "NightlyTest::@ec157c7f07670d922be3",
+					"jsonFile" : "target-NightlyTest-Release-13174c489ad4fa9090b9.json",
+					"name" : "NightlyTest",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "NightlyUpdate::@ec157c7f07670d922be3",
+					"jsonFile" : "target-NightlyUpdate-Release-1c825ac76f2f71e3d1fc.json",
+					"name" : "NightlyUpdate",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main_test-Release-d19411a8c2ce1a16dd9c.json",
+					"name" : "main_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "pugixml-static::@ec157c7f07670d922be3",
+					"jsonFile" : "target-pugixml-static-Release-cf2535edce2907232739.json",
+					"name" : "pugixml-static",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "spdlog::@eb35cfce7893ccfeff1e",
+					"jsonFile" : "target-spdlog-Release-9b7ad70b38c5a3407b93.json",
+					"name" : "spdlog",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "usockets::@0b2d1d428fc2c28b404f",
+					"jsonFile" : "target-usockets-Release-892c36666524bee99bed.json",
+					"name" : "usockets",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "uv_a::@a9a329eb43f22887eddf",
+					"jsonFile" : "target-uv_a-Release-4edc3ddb91138af0bbdd.json",
+					"name" : "uv_a",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "zlib::@c9556b0b6bf47963f9da",
+					"jsonFile" : "target-zlib-Release-32e2dd776a3460c62117.json",
+					"name" : "zlib",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "zlibstatic::@c9556b0b6bf47963f9da",
+					"jsonFile" : "target-zlibstatic-Release-83284d48da1978ebb19d.json",
+					"name" : "zlibstatic",
+					"projectIndex" : 9
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mxqwthl/bitbot_cifx_demo/build",
+		"source" : "/home/mxqwthl/bitbot_cifx_demo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

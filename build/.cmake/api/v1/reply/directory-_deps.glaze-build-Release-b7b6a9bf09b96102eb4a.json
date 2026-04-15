@@ -1,0 +1,117 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"include"
+		],
+		"files" : 
+		[
+			"build/_deps/glaze-src/cmake/install-rules.cmake",
+			"build/_deps/glaze-src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 46,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 35,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 48,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "glaze_Development",
+			"destination" : "include",
+			"paths" : 
+			[
+				{
+					"from" : "build/_deps/glaze-src/include",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "glaze_Development",
+			"destination" : "share/glaze",
+			"paths" : 
+			[
+				{
+					"from" : "build/_deps/glaze-src/cmake/install-config.cmake",
+					"to" : "glazeConfig.cmake"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "glaze_Development",
+			"destination" : "share/glaze",
+			"paths" : 
+			[
+				"build/_deps/glaze-build/glazeConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "glaze_Development",
+			"destination" : "share/glaze",
+			"exportName" : "glazeTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "glaze_glaze::@662e237bb3cc8e216707",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"_deps/glaze-build/CMakeFiles/Export/4060b7be0bf29cefc5b631f973b7eb37/glazeTargets.cmake"
+			],
+			"type" : "export"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/glaze-build",
+		"source" : "build/_deps/glaze-src"
+	}
+}

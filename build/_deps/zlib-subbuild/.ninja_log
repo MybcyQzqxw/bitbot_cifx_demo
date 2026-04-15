@@ -1,0 +1,21 @@
+# ninja log v5
+62	67	1776247295833179152	/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	d4840929fe12fd2d
+0	7	1776247295773201490	/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	525e61bc6e1f9c39
+58	62	1776247295829180640	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	7e54333d1344aa7c
+67	72	1776247295837177661	/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	c4b5c9ea47ecfba4
+62	67	1776247295833179152	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	d4840929fe12fd2d
+8	52	1776247295817185107	/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	9f22dc78ec8c8b76
+82	94	1776247295861168727	/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/CMakeFiles/zlib-populate-complete	6131da44ad505e51
+77	82	1776247295849173194	/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	9cabcf4b6d3becb7
+77	82	1776247295849173194	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	9cabcf4b6d3becb7
+72	77	1776247295845174685	/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	f43020e75030e262
+82	94	1776247295861168727	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	6131da44ad505e51
+0	7	1776247295773201490	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	525e61bc6e1f9c39
+52	58	1776247295825182131	/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	19cc853186aaf34e
+67	72	1776247295837177661	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	c4b5c9ea47ecfba4
+8	52	1776247295817185107	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	9f22dc78ec8c8b76
+82	94	1776247295861168727	/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	6131da44ad505e51
+52	58	1776247295825182131	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	19cc853186aaf34e
+58	62	1776247295829180640	/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	7e54333d1344aa7c
+82	94	1776247295861168727	CMakeFiles/zlib-populate-complete	6131da44ad505e51
+72	77	1776247295845174685	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	f43020e75030e262

@@ -1,0 +1,638 @@
+[
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/usr/local/include/cifx -I/usr/include/libnl3 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -std=gnu++20 -Wno-missing-braces -o CMakeFiles/main_test.dir/main.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/main.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/main.cpp",
+  "output": "CMakeFiles/main_test.dir/main.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/usr/local/include/cifx -I/usr/include/libnl3 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -std=gnu++20 -Wno-missing-braces -o CMakeFiles/main_test.dir/user_func.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/user_func.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/user_func.cpp",
+  "output": "CMakeFiles/main_test.dir/user_func.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/usr/local/include/cifx -I/usr/include/libnl3 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -std=gnu++20 -Wno-missing-braces -o _deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/bus/cifx_bus.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/bus/cifx_bus.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/bus/cifx_bus.cpp",
+  "output": "_deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/bus/cifx_bus.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/usr/local/include/cifx -I/usr/include/libnl3 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -Wno-missing-braces -o _deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/bus/cifx/cifx_driver.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/bus/cifx/cifx_driver.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/bus/cifx/cifx_driver.c",
+  "output": "_deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/bus/cifx/cifx_driver.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/usr/local/include/cifx -I/usr/include/libnl3 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -Wno-missing-braces -o _deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/bus/cifx/cifx_variable.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/bus/cifx/cifx_variable.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/bus/cifx/cifx_variable.c",
+  "output": "_deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/bus/cifx/cifx_variable.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/usr/local/include/cifx -I/usr/include/libnl3 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -Wno-missing-braces -o _deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/bus/cifx/hardware_sys.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/bus/cifx/hardware_sys.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/bus/cifx/hardware_sys.c",
+  "output": "_deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/bus/cifx/hardware_sys.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/usr/local/include/cifx -I/usr/include/libnl3 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -Wno-missing-braces -o _deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/bus/cifx/protocol_SDO.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/bus/cifx/protocol_SDO.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/bus/cifx/protocol_SDO.c",
+  "output": "_deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/bus/cifx/protocol_SDO.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/usr/local/include/cifx -I/usr/include/libnl3 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -std=gnu++20 -Wno-missing-braces -o _deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/device/ahrs_xsens.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/device/ahrs_xsens.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/device/ahrs_xsens.cpp",
+  "output": "_deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/device/ahrs_xsens.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/usr/local/include/cifx -I/usr/include/libnl3 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -std=gnu++20 -Wno-missing-braces -o _deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/device/encoder_3d.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/device/encoder_3d.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/device/encoder_3d.cpp",
+  "output": "_deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/device/encoder_3d.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/usr/local/include/cifx -I/usr/include/libnl3 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -std=gnu++20 -Wno-missing-braces -o _deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/device/force_sri6d.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/device/force_sri6d.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/device/force_sri6d.cpp",
+  "output": "_deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/device/force_sri6d.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/usr/local/include/cifx -I/usr/include/libnl3 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -std=gnu++20 -Wno-missing-braces -o _deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/device/imu_mti300.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/device/imu_mti300.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/device/imu_mti300.cpp",
+  "output": "_deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/device/imu_mti300.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/usr/local/include/cifx -I/usr/include/libnl3 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -std=gnu++20 -Wno-missing-braces -o _deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/device/imu_optic.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/device/imu_optic.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/device/imu_optic.cpp",
+  "output": "_deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/device/imu_optic.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/usr/local/include/cifx -I/usr/include/libnl3 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -std=gnu++20 -Wno-missing-braces -o _deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/device/joint_elmo.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/device/joint_elmo.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/device/joint_elmo.cpp",
+  "output": "_deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/device/joint_elmo.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/usr/local/include/cifx -I/usr/include/libnl3 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -std=gnu++20 -Wno-missing-braces -o _deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/device/joint_elmo_old.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/device/joint_elmo_old.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/device/joint_elmo_old.cpp",
+  "output": "_deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/device/joint_elmo_old.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/usr/local/include/cifx -I/usr/include/libnl3 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -std=gnu++20 -Wno-missing-braces -o _deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/device/joint_elmo_pushrod.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/device/joint_elmo_pushrod.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/device/joint_elmo_pushrod.cpp",
+  "output": "_deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/device/joint_elmo_pushrod.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/usr/local/include/cifx -I/usr/include/libnl3 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -std=gnu++20 -Wno-missing-braces -o _deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/device/kuafu_foot.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/device/kuafu_foot.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_cifx-src/src/device/kuafu_foot.cpp",
+  "output": "_deps/bitbot_cifx-build/CMakeFiles/BitbotCifx.dir/src/device/kuafu_foot.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DLIBUS_NO_SSL -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/internal -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -O3 -DNDEBUG -o _deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/bsd.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/bsd.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/bsd.c",
+  "output": "_deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/bsd.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DLIBUS_NO_SSL -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/internal -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -O3 -DNDEBUG -o _deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/context.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/context.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/context.c",
+  "output": "_deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/context.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DLIBUS_NO_SSL -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/internal -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -O3 -DNDEBUG -o _deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/loop.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/loop.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/loop.c",
+  "output": "_deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/loop.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DLIBUS_NO_SSL -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/internal -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -O3 -DNDEBUG -o _deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/quic.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/quic.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/quic.c",
+  "output": "_deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/quic.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DLIBUS_NO_SSL -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/internal -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -O3 -DNDEBUG -o _deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/socket.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/socket.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/socket.c",
+  "output": "_deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/socket.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DLIBUS_NO_SSL -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/internal -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -O3 -DNDEBUG -o _deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/udp.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/udp.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/udp.c",
+  "output": "_deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/udp.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -DLIBUS_NO_SSL -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/internal -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -O3 -DNDEBUG -o _deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/eventing/asio.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/eventing/asio.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/eventing/asio.cpp",
+  "output": "_deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/eventing/asio.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DLIBUS_NO_SSL -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/internal -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -O3 -DNDEBUG -o _deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/eventing/epoll_kqueue.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/eventing/epoll_kqueue.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/eventing/epoll_kqueue.c",
+  "output": "_deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/eventing/epoll_kqueue.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DLIBUS_NO_SSL -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/internal -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -O3 -DNDEBUG -o _deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/eventing/gcd.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/eventing/gcd.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/eventing/gcd.c",
+  "output": "_deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/eventing/gcd.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DLIBUS_NO_SSL -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/internal -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -O3 -DNDEBUG -o _deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/eventing/libuv.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/eventing/libuv.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src/eventing/libuv.c",
+  "output": "_deps/bitbot_kernel-build/CMakeFiles/usockets.dir/__/usockets-src/src/eventing/libuv.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -std=gnu++20 -Wno-missing-braces -o _deps/bitbot_kernel-build/CMakeFiles/BitbotKernel.dir/src/kernel/backend.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/src/kernel/backend.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/src/kernel/backend.cpp",
+  "output": "_deps/bitbot_kernel-build/CMakeFiles/BitbotKernel.dir/src/kernel/backend.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -std=gnu++20 -Wno-missing-braces -o _deps/bitbot_kernel-build/CMakeFiles/BitbotKernel.dir/src/kernel/config_parser.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/src/kernel/config_parser.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/src/kernel/config_parser.cpp",
+  "output": "_deps/bitbot_kernel-build/CMakeFiles/BitbotKernel.dir/src/kernel/config_parser.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -Wno-missing-braces -o _deps/bitbot_kernel-build/CMakeFiles/BitbotKernel.dir/src/utils/cpu_affinity.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/src/utils/cpu_affinity.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/src/utils/cpu_affinity.c",
+  "output": "_deps/bitbot_kernel-build/CMakeFiles/BitbotKernel.dir/src/utils/cpu_affinity.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -std=gnu++20 -Wno-missing-braces -o _deps/bitbot_kernel-build/CMakeFiles/BitbotKernel.dir/src/utils/logger.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/src/utils/logger.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/src/utils/logger.cpp",
+  "output": "_deps/bitbot_kernel-build/CMakeFiles/BitbotKernel.dir/src/utils/logger.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -Wno-missing-braces -o _deps/bitbot_kernel-build/CMakeFiles/BitbotKernel.dir/src/utils/priority.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/src/utils/priority.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/src/utils/priority.c",
+  "output": "_deps/bitbot_kernel-build/CMakeFiles/BitbotKernel.dir/src/utils/priority.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -std=gnu++20 -Wno-missing-braces -o _deps/bitbot_kernel-build/CMakeFiles/BitbotKernel.dir/src/utils/realtime.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/src/utils/realtime.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/src/utils/realtime.cpp",
+  "output": "_deps/bitbot_kernel-build/CMakeFiles/BitbotKernel.dir/src/utils/realtime.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-src/src -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-src/src -isystem /home/mxqwthl/bitbot_cifx_demo/build/_deps/glaze-src/include -O3 -DNDEBUG -Wno-missing-braces -o _deps/bitbot_kernel-build/CMakeFiles/BitbotKernel.dir/src/utils/time_func.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/src/utils/time_func.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/bitbot_kernel-src/src/utils/time_func.c",
+  "output": "_deps/bitbot_kernel-build/CMakeFiles/BitbotKernel.dir/src/utils/time_func.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src -O3 -DNDEBUG -std=gnu++11 -fPIC -o _deps/pugixml-build/CMakeFiles/pugixml-static.dir/src/pugixml.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src/pugixml.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-src/src/pugixml.cpp",
+  "output": "_deps/pugixml-build/CMakeFiles/pugixml-static.dir/src/pugixml.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -DFMT_EXPORT -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_SHARED_LIB -Dspdlog_EXPORTS -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -fPIC -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/src/spdlog.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/src/spdlog.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/spdlog.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -DFMT_EXPORT -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_SHARED_LIB -Dspdlog_EXPORTS -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -fPIC -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/src/stdout_sinks.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/src/stdout_sinks.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -DFMT_EXPORT -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_SHARED_LIB -Dspdlog_EXPORTS -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -fPIC -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/src/color_sinks.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/src/color_sinks.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -DFMT_EXPORT -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_SHARED_LIB -Dspdlog_EXPORTS -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -fPIC -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/src/file_sinks.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/src/file_sinks.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -DFMT_EXPORT -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_SHARED_LIB -Dspdlog_EXPORTS -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -fPIC -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/src/async.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/src/async.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/async.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -DFMT_EXPORT -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_SHARED_LIB -Dspdlog_EXPORTS -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -fPIC -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/src/cfg.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/src/cfg.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/cfg.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/g++ -DFMT_EXPORT -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_SHARED_LIB -Dspdlog_EXPORTS -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++11 -fPIC -o _deps/spdlog-build/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/src/bundled_fmtlib_format.cpp",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/spdlog-src/src/bundled_fmtlib_format.cpp",
+  "output": "_deps/spdlog-build/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/fs-poll.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/fs-poll.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/fs-poll.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/fs-poll.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/idna.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/idna.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/idna.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/idna.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/inet.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/inet.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/inet.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/inet.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/random.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/random.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/random.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/random.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/strscpy.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/strscpy.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/strscpy.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/strscpy.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/strtok.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/strtok.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/strtok.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/strtok.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/thread-common.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/thread-common.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/thread-common.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/thread-common.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/threadpool.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/threadpool.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/threadpool.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/threadpool.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/timer.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/timer.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/timer.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/timer.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/uv-common.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/uv-common.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/uv-common.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/uv-common.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/uv-data-getter-setters.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/uv-data-getter-setters.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/uv-data-getter-setters.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/uv-data-getter-setters.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/version.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/version.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/version.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/version.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/async.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/async.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/async.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/async.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/core.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/core.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/core.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/core.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/dl.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/dl.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/dl.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/dl.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/fs.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/fs.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/fs.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/fs.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/getaddrinfo.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/getaddrinfo.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/getaddrinfo.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/getaddrinfo.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/getnameinfo.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/getnameinfo.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/getnameinfo.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/getnameinfo.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/loop-watcher.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/loop-watcher.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/loop-watcher.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/loop-watcher.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/loop.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/loop.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/loop.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/loop.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/pipe.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/pipe.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/pipe.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/pipe.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/poll.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/poll.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/poll.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/poll.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/process.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/process.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/process.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/process.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/random-devurandom.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/random-devurandom.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/random-devurandom.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/random-devurandom.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/signal.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/signal.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/signal.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/signal.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/stream.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/stream.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/stream.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/stream.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/tcp.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/tcp.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/tcp.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/tcp.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/thread.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/thread.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/thread.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/thread.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/tty.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/tty.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/tty.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/tty.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/udp.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/udp.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/udp.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/udp.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/proctitle.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/proctitle.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/proctitle.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/proctitle.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/linux.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/linux.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/linux.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/linux.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/procfs-exepath.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/procfs-exepath.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/procfs-exepath.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/procfs-exepath.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/random-getrandom.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/random-getrandom.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/random-getrandom.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/random-getrandom.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -D_LARGEFILE_SOURCE -D_POSIX_C_SOURCE=200112 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/include -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src -O3 -DNDEBUG -std=gnu90 -fvisibility=hidden -Wstrict-prototypes -Wextra -Wall -Wno-unused-parameter -fno-strict-aliasing -o _deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/random-sysctl-linux.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/random-sysctl-linux.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-src/src/unix/random-sysctl-linux.c",
+  "output": "_deps/libuv-build/CMakeFiles/uv_a.dir/src/unix/random-sysctl-linux.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DZLIB_DLL -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -fPIC -o _deps/zlib-build/CMakeFiles/zlib.dir/adler32.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/adler32.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/adler32.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlib.dir/adler32.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DZLIB_DLL -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -fPIC -o _deps/zlib-build/CMakeFiles/zlib.dir/compress.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/compress.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/compress.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlib.dir/compress.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DZLIB_DLL -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -fPIC -o _deps/zlib-build/CMakeFiles/zlib.dir/crc32.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/crc32.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/crc32.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlib.dir/crc32.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DZLIB_DLL -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -fPIC -o _deps/zlib-build/CMakeFiles/zlib.dir/deflate.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/deflate.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/deflate.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlib.dir/deflate.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DZLIB_DLL -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -fPIC -o _deps/zlib-build/CMakeFiles/zlib.dir/gzclose.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/gzclose.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/gzclose.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlib.dir/gzclose.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DZLIB_DLL -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -fPIC -o _deps/zlib-build/CMakeFiles/zlib.dir/gzlib.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/gzlib.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/gzlib.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlib.dir/gzlib.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DZLIB_DLL -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -fPIC -o _deps/zlib-build/CMakeFiles/zlib.dir/gzread.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/gzread.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/gzread.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlib.dir/gzread.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DZLIB_DLL -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -fPIC -o _deps/zlib-build/CMakeFiles/zlib.dir/gzwrite.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/gzwrite.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/gzwrite.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlib.dir/gzwrite.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DZLIB_DLL -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -fPIC -o _deps/zlib-build/CMakeFiles/zlib.dir/inflate.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/inflate.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/inflate.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlib.dir/inflate.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DZLIB_DLL -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -fPIC -o _deps/zlib-build/CMakeFiles/zlib.dir/infback.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/infback.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/infback.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlib.dir/infback.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DZLIB_DLL -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -fPIC -o _deps/zlib-build/CMakeFiles/zlib.dir/inftrees.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/inftrees.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/inftrees.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlib.dir/inftrees.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DZLIB_DLL -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -fPIC -o _deps/zlib-build/CMakeFiles/zlib.dir/inffast.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/inffast.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/inffast.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlib.dir/inffast.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DZLIB_DLL -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -fPIC -o _deps/zlib-build/CMakeFiles/zlib.dir/trees.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/trees.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/trees.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlib.dir/trees.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DZLIB_DLL -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -fPIC -o _deps/zlib-build/CMakeFiles/zlib.dir/uncompr.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/uncompr.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/uncompr.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlib.dir/uncompr.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -DZLIB_DLL -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -fPIC -o _deps/zlib-build/CMakeFiles/zlib.dir/zutil.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/zutil.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/zutil.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlib.dir/zutil.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -o _deps/zlib-build/CMakeFiles/zlibstatic.dir/adler32.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/adler32.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/adler32.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlibstatic.dir/adler32.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -o _deps/zlib-build/CMakeFiles/zlibstatic.dir/compress.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/compress.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/compress.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlibstatic.dir/compress.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -o _deps/zlib-build/CMakeFiles/zlibstatic.dir/crc32.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/crc32.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/crc32.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlibstatic.dir/crc32.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -o _deps/zlib-build/CMakeFiles/zlibstatic.dir/deflate.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/deflate.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/deflate.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlibstatic.dir/deflate.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -o _deps/zlib-build/CMakeFiles/zlibstatic.dir/gzclose.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/gzclose.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/gzclose.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlibstatic.dir/gzclose.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -o _deps/zlib-build/CMakeFiles/zlibstatic.dir/gzlib.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/gzlib.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/gzlib.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlibstatic.dir/gzlib.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -o _deps/zlib-build/CMakeFiles/zlibstatic.dir/gzread.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/gzread.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/gzread.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlibstatic.dir/gzread.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -o _deps/zlib-build/CMakeFiles/zlibstatic.dir/gzwrite.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/gzwrite.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/gzwrite.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlibstatic.dir/gzwrite.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -o _deps/zlib-build/CMakeFiles/zlibstatic.dir/inflate.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/inflate.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/inflate.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlibstatic.dir/inflate.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -o _deps/zlib-build/CMakeFiles/zlibstatic.dir/infback.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/infback.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/infback.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlibstatic.dir/infback.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -o _deps/zlib-build/CMakeFiles/zlibstatic.dir/inftrees.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/inftrees.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/inftrees.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlibstatic.dir/inftrees.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -o _deps/zlib-build/CMakeFiles/zlibstatic.dir/inffast.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/inffast.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/inffast.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlibstatic.dir/inffast.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -o _deps/zlib-build/CMakeFiles/zlibstatic.dir/trees.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/trees.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/trees.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlibstatic.dir/trees.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -o _deps/zlib-build/CMakeFiles/zlibstatic.dir/uncompr.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/uncompr.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/uncompr.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlibstatic.dir/uncompr.c.o"
+},
+{
+  "directory": "/home/mxqwthl/bitbot_cifx_demo/build",
+  "command": "/usr/bin/gcc -D_LARGEFILE64_SOURCE=1 -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-build -I/home/mxqwthl/bitbot_cifx_demo -I/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/include -O3 -DNDEBUG -o _deps/zlib-build/CMakeFiles/zlibstatic.dir/zutil.c.o -c /home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/zutil.c",
+  "file": "/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-src/zutil.c",
+  "output": "_deps/zlib-build/CMakeFiles/zlibstatic.dir/zutil.c.o"
+}
+]

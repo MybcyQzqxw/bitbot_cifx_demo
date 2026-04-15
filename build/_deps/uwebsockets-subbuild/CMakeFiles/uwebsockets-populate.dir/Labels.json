@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/CMakeFiles/uwebsockets-populate"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/CMakeFiles/uwebsockets-populate.rule"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/CMakeFiles/uwebsockets-populate-complete.rule"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-build.rule"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-configure.rule"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-download.rule"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-install.rule"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-patch.rule"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-test.rule"
+		},
+		{
+			"file" : "/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/uwebsockets-populate-prefix/src/uwebsockets-populate-stamp/uwebsockets-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"uwebsockets-populate"
+		],
+		"name" : "uwebsockets-populate"
+	}
+}

@@ -1,0 +1,14 @@
+# Target labels
+ usockets-populate
+# Source files and their labels
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/CMakeFiles/usockets-populate
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/CMakeFiles/usockets-populate.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/CMakeFiles/usockets-populate-complete.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-build.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-configure.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-download.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-install.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-mkdir.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-patch.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-test.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/usockets-populate-prefix/src/usockets-populate-stamp/usockets-populate-update.rule

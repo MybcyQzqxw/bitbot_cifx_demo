@@ -1,0 +1,21 @@
+# ninja log v5
+51	57	1776247294049862464	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-install	1540ff00df885720
+43	51	1776247294041865604	/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-build	2ade4f8bad1e717f
+43	51	1776247294041865604	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-build	2ade4f8bad1e717f
+34	38	1776247294029870311	/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-patch	f984b846f74060f3
+63	71	1776247294061857756	/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-subbuild/CMakeFiles/pugixml-populate-complete	58a182786d49e5dd
+38	43	1776247294033868743	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-configure	f2e93edae8d4ff88
+63	71	1776247294061857756	/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-done	58a182786d49e5dd
+51	57	1776247294049862464	/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-install	1540ff00df885720
+63	71	1776247294061857756	CMakeFiles/pugixml-populate-complete	58a182786d49e5dd
+27	33	1776247294021873451	/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-update	e1aea7a973fa4803
+57	63	1776247294053860894	/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-test	52cd28ab0c77c0d2
+0	6	1776247293997882956	/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-mkdir	deea659eaf5267ac
+57	63	1776247294053860894	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-test	52cd28ab0c77c0d2
+6	27	1776247294017875021	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-download	c6bc80a3ca950189
+0	6	1776247293997882956	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-mkdir	deea659eaf5267ac
+27	33	1776247294021873451	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-update	e1aea7a973fa4803
+38	43	1776247294033868743	/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-configure	f2e93edae8d4ff88
+6	27	1776247294017875021	/home/mxqwthl/bitbot_cifx_demo/build/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-download	c6bc80a3ca950189
+34	38	1776247294029870311	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-patch	f984b846f74060f3
+63	71	1776247294061857756	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-done	58a182786d49e5dd

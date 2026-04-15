@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bitbot>
+  <logger level="debug"/>
+  <backend settings_file="setting.json"/>
+
+  <bus>
+    <device id="3" type="JointElmo" name="Arm1"
+            enable="1" mode="CSP" motor_direction="1" torque_direction="1"
+            encoder_resolution="262144" transmission_ratio="17.43" calibration_angle="0"
+            current_min="-30" current_max="30" pos_min="-90" pos_max="90"
+    />
+    <device id="2" type="JointElmo" name="Arm2"
+            enable="0" mode="CSP" motor_direction="1" torque_direction="1" torque_constant="0.25"
+            encoder_resolution="262144" transmission_ratio="17.43" calibration_angle="0"
+            current_min="-30" current_max="30" pos_min="-10" pos_max="90"
+    />
+    <device id="1" type="JointElmo" name="Arm3"
+            enable="0" mode="CSP" motor_direction="1" torque_direction="1" torque_constant="0.25"
+            encoder_resolution="262144" transmission_ratio="17.43" calibration_angle="0"
+            current_min="-30" current_max="30" pos_min="-90" pos_max="45"
+    />
+    <device id="0" type="JointElmoPushrod" name="Arm4"
+            enable="0" mode="CSP" motor_direction="1" torque_direction="1"
+            encoder_resolution="262144" transmission_ratio="1" calibration_angle="0"
+            theta0="40" lead="0.005" l0="0.193" r0="0.034" initial_pos="75.3"
+            current_min="-30" current_max="30" pos_min="-360" pos_max="360"
+    />
+  </bus>
+
+</bitbot>

@@ -1,0 +1,3 @@
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-subbuild/CMakeFiles/libuv-populate.dir
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-subbuild/CMakeFiles/edit_cache.dir
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/libuv-subbuild/CMakeFiles/rebuild_cache.dir

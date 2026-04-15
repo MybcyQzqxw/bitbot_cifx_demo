@@ -1,0 +1,14 @@
+# Target labels
+ readerwriterqueue-populate
+# Source files and their labels
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-subbuild/CMakeFiles/readerwriterqueue-populate
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-subbuild/CMakeFiles/readerwriterqueue-populate.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-subbuild/CMakeFiles/readerwriterqueue-populate-complete.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-subbuild/readerwriterqueue-populate-prefix/src/readerwriterqueue-populate-stamp/readerwriterqueue-populate-build.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-subbuild/readerwriterqueue-populate-prefix/src/readerwriterqueue-populate-stamp/readerwriterqueue-populate-configure.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-subbuild/readerwriterqueue-populate-prefix/src/readerwriterqueue-populate-stamp/readerwriterqueue-populate-download.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-subbuild/readerwriterqueue-populate-prefix/src/readerwriterqueue-populate-stamp/readerwriterqueue-populate-install.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-subbuild/readerwriterqueue-populate-prefix/src/readerwriterqueue-populate-stamp/readerwriterqueue-populate-mkdir.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-subbuild/readerwriterqueue-populate-prefix/src/readerwriterqueue-populate-stamp/readerwriterqueue-populate-patch.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-subbuild/readerwriterqueue-populate-prefix/src/readerwriterqueue-populate-stamp/readerwriterqueue-populate-test.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/readerwriterqueue-subbuild/readerwriterqueue-populate-prefix/src/readerwriterqueue-populate-stamp/readerwriterqueue-populate-update.rule

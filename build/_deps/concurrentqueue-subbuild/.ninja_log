@@ -1,0 +1,21 @@
+# ninja log v5
+127	134	1776247294617639588	/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-subbuild/concurrentqueue-populate-prefix/src/concurrentqueue-populate-stamp/concurrentqueue-populate-build	5a73ed8c5e198eed
+127	134	1776247294617639588	concurrentqueue-populate-prefix/src/concurrentqueue-populate-stamp/concurrentqueue-populate-build	5a73ed8c5e198eed
+119	127	1776247294609642728	concurrentqueue-populate-prefix/src/concurrentqueue-populate-stamp/concurrentqueue-populate-configure	809e98984e7ac75
+114	119	1776247294605644298	/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-subbuild/concurrentqueue-populate-prefix/src/concurrentqueue-populate-stamp/concurrentqueue-populate-patch	2d2da5883e355f25
+119	127	1776247294609642728	/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-subbuild/concurrentqueue-populate-prefix/src/concurrentqueue-populate-stamp/concurrentqueue-populate-configure	809e98984e7ac75
+109	114	1776247294597647438	/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-subbuild/concurrentqueue-populate-prefix/src/concurrentqueue-populate-stamp/concurrentqueue-populate-update	5c8792805a09b3fe
+109	114	1776247294597647438	concurrentqueue-populate-prefix/src/concurrentqueue-populate-stamp/concurrentqueue-populate-update	5c8792805a09b3fe
+145	154	1776247294637631741	/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-subbuild/concurrentqueue-populate-prefix/src/concurrentqueue-populate-stamp/concurrentqueue-populate-done	e81b93b8d2dca5fc
+141	145	1776247294629634881	/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-subbuild/concurrentqueue-populate-prefix/src/concurrentqueue-populate-stamp/concurrentqueue-populate-test	337087c3926856d8
+145	154	1776247294637631741	/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-subbuild/CMakeFiles/concurrentqueue-populate-complete	e81b93b8d2dca5fc
+145	154	1776247294637631741	CMakeFiles/concurrentqueue-populate-complete	e81b93b8d2dca5fc
+134	141	1776247294625636451	/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-subbuild/concurrentqueue-populate-prefix/src/concurrentqueue-populate-stamp/concurrentqueue-populate-install	a130eaf4fa8487c8
+0	6	1776247294489689815	concurrentqueue-populate-prefix/src/concurrentqueue-populate-stamp/concurrentqueue-populate-mkdir	a6f0d4871cde9dc4
+6	109	1776247294593649006	concurrentqueue-populate-prefix/src/concurrentqueue-populate-stamp/concurrentqueue-populate-download	3426dc05d03d4639
+134	141	1776247294625636451	concurrentqueue-populate-prefix/src/concurrentqueue-populate-stamp/concurrentqueue-populate-install	a130eaf4fa8487c8
+114	119	1776247294605644298	concurrentqueue-populate-prefix/src/concurrentqueue-populate-stamp/concurrentqueue-populate-patch	2d2da5883e355f25
+145	154	1776247294637631741	concurrentqueue-populate-prefix/src/concurrentqueue-populate-stamp/concurrentqueue-populate-done	e81b93b8d2dca5fc
+141	145	1776247294629634881	concurrentqueue-populate-prefix/src/concurrentqueue-populate-stamp/concurrentqueue-populate-test	337087c3926856d8
+0	6	1776247294489689815	/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-subbuild/concurrentqueue-populate-prefix/src/concurrentqueue-populate-stamp/concurrentqueue-populate-mkdir	a6f0d4871cde9dc4
+6	109	1776247294593649006	/home/mxqwthl/bitbot_cifx_demo/build/_deps/concurrentqueue-subbuild/concurrentqueue-populate-prefix/src/concurrentqueue-populate-stamp/concurrentqueue-populate-download	3426dc05d03d4639

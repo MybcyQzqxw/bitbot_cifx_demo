@@ -1,0 +1,58 @@
+{
+  "control": [
+    {
+      "event": "enable_record",
+      "label": "记录数据",
+      "kb_key": "m"
+    },
+    {
+      "event": "start",
+      "label": "启动",
+      "kb_key": "8"
+    },
+    {
+      "event": "power_on",
+      "kb_key": "9"
+    },
+    {
+      "event": "stop",
+      "label": "停止",
+      "kb_key": " "
+    },
+    {
+      "event": "do_test",
+      "label": "测试",
+      "kb_key": "t"
+    },
+    {
+      "event": "read_traj",
+      "label": "读轨迹",
+      "kb_key": "r"
+    },
+    {
+      "event": "change mode",
+      "label": "后退",
+      "kb_key": "5"
+    },
+    {
+      "event": "init_pos",
+      "label": "复位",
+      "kb_key": "0"
+    },
+    {
+      "event": "run",
+      "label": "运行",
+      "kb_key": "6"
+    },
+    {
+      "event": "left",
+      "label": "左转",
+      "kb_key": "a"
+    },
+    {
+      "event": "right",
+      "label": "右转",
+      "kb_key": "d"
+    }
+  ]
+}

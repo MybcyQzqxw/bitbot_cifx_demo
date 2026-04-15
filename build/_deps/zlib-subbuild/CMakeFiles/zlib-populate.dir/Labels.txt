@@ -1,0 +1,14 @@
+# Target labels
+ zlib-populate
+# Source files and their labels
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/CMakeFiles/zlib-populate
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/CMakeFiles/zlib-populate.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/CMakeFiles/zlib-populate-complete.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test.rule
+/home/mxqwthl/bitbot_cifx_demo/build/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update.rule
