@@ -11,15 +11,17 @@
 
 enum Events
 {
-  DoTest = 1001,
-  ChangeMode,
+  InitPos = 1001,
+  MaintainPos = 1002,
+  ChangeMode = 1003,
 };
 
 enum class States : bitbot::StateId
 {
-  Waiting = 1001,
-  InitPos,
-  ChangeMode,
+  Waiting = 2001,
+  InitPos = 2002,
+  MaintainPos = 2003,
+  ChangeMode = 2004,
 };
 
 extern bitbot::JointElmoPushrod *joint_x;
@@ -33,15 +35,16 @@ using CifxKernel = bitbot::CifxKernel<UserData, "setup_time", "solve_time", "pin
 void ConfigFunc(const bitbot::CifxBus &bus, UserData &);
 
 std::optional<bitbot::StateId> EventInitPos(bitbot::EventValue value, UserData &user_data);
+std::optional<bitbot::StateId> EventMaintainPos(bitbot::EventValue value, UserData &user_data);
 std::optional<bitbot::StateId> EventChangeMode(bitbot::EventValue value, UserData &user_data);
-std::optional<bitbot::StateId> EventReadTraj(bitbot::EventValue value, UserData &user_data);
 
 void StateWaiting(const bitbot::KernelInterface &kernel, CifxKernel::ExtraData &extra_data, UserData &user_data);
 void StateInitPos(const bitbot::KernelInterface &kernel, CifxKernel::ExtraData &extra_data, UserData &user_data);
+void StateMaintainPos(const bitbot::KernelInterface &kernel, CifxKernel::ExtraData &extra_data, UserData &user_data);
 void StateChangeMode(const bitbot::KernelInterface &kernel, CifxKernel::ExtraData &extra_data, UserData &user_data);
 
-void InitPos(double time);
-void JointSinPos(double time); // 关节空间sin
+// void InitPos(double time);
+// void JointSinPos(double time); // 关节空间sin
 
 static std::vector<std::vector<double>> ReadCSV(std::string filename)
 {

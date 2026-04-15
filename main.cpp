@@ -30,18 +30,25 @@ int main(int argc, char const *argv[])
 
 	kernel.RegisterConfigFunc(ConfigFunc);
 
-	kernel.RegisterEvent("do_test", static_cast<bitbot::EventId>(Events::DoTest), [](bitbot::EventValue, UserData &)
+	kernel.RegisterEvent("init_pos", static_cast<bitbot::EventId>(Events::InitPos), [](bitbot::EventValue, UserData &)
 											 { return static_cast<bitbot::StateId>(States::InitPos); });
+
+	kernel.RegisterEvent("maintain_pos", static_cast<bitbot::EventId>(Events::MaintainPos), [](bitbot::EventValue, UserData &)
+											 { return static_cast<bitbot::StateId>(States::MaintainPos); });
 
 	kernel.RegisterEvent("change_mode", static_cast<bitbot::EventId>(Events::ChangeMode), [](bitbot::EventValue, UserData &)
 											 { return static_cast<bitbot::StateId>(States::ChangeMode); });
+											 
+	// kernel.RegisterState("waiting", static_cast<bitbot::StateId>(States::Waiting), &StateWaiting, {});
 
-	kernel.RegisterState("waiting", static_cast<bitbot::StateId>(States::Waiting), &StateWaiting, {static_cast<bitbot::EventId>(Events::DoTest), static_cast<bitbot::EventId>(Events::ChangeMode)});
+	kernel.RegisterState("waiting", static_cast<bitbot::StateId>(States::Waiting), &StateWaiting, {static_cast<bitbot::EventId>(Events::InitPos), static_cast<bitbot::EventId>(Events::MaintainPos)});
+	
+	kernel.RegisterState("init_pos", static_cast<bitbot::StateId>(States::InitPos), &StateInitPos, {static_cast<bitbot::EventId>(Events::MaintainPos)});
 
-	kernel.RegisterState("init_pos", static_cast<bitbot::StateId>(States::InitPos), &StateInitPos, {});
+	kernel.RegisterState("maintain_pos", static_cast<bitbot::StateId>(States::MaintainPos), &StateMaintainPos, {});
 
-	kernel.RegisterState("change mode", static_cast<bitbot::StateId>(States::ChangeMode), &StateChangeMode, {static_cast<bitbot::EventId>(Events::DoTest)});
-
+	kernel.RegisterState("change_mode", static_cast<bitbot::StateId>(States::ChangeMode), &StateChangeMode, {});
+	
 	kernel.SetFirstState(static_cast<bitbot::StateId>(States::Waiting));
 
 	kernel.Run();
