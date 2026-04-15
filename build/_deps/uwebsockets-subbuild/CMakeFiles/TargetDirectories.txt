@@ -1,3 +1,0 @@
-/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/CMakeFiles/uwebsockets-populate.dir
-/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/CMakeFiles/edit_cache.dir
-/home/mxqwthl/bitbot_cifx_demo/build/_deps/uwebsockets-subbuild/CMakeFiles/rebuild_cache.dir

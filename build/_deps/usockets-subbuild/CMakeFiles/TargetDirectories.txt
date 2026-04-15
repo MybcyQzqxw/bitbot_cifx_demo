@@ -1,3 +1,0 @@
-/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/CMakeFiles/usockets-populate.dir
-/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/CMakeFiles/edit_cache.dir
-/home/mxqwthl/bitbot_cifx_demo/build/_deps/usockets-subbuild/CMakeFiles/rebuild_cache.dir
