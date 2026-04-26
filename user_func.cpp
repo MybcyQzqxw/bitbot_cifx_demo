@@ -51,10 +51,10 @@ void StateInitPos(const bitbot::KernelInterface &kernel, CifxKernel::ExtraData &
   static double initial_pos2 = 0;
   static double initial_pos3 = 0;
   static double initial_pos4 = 0;
-  static constexpr double final_pos1 = 31.6 * deg2rad;  // 目标位置 (rad)
+  static constexpr double final_pos1 = 35 * deg2rad; //42.7 * deg2rad;  // 目标位置 (rad)
   static constexpr double final_pos2 = 0.0 * deg2rad;
   static constexpr double final_pos3 = 0.0 * deg2rad;
-  static constexpr double final_pos4 = 70.7 * deg2rad;
+  static constexpr double final_pos4 = 55 * deg2rad;//70.7 * deg2rad;
   static constexpr double duration = 20.0;   // 运动时长 (s)
 
   double time = kernel.GetPeriodsCount() * _ControlT;
@@ -107,6 +107,11 @@ void StateMaintainPos(const bitbot::KernelInterface &kernel, CifxKernel::ExtraDa
   static constexpr double Kp3 = 50, Kd3 = 0.5;
   static constexpr double Kp4 = 50, Kd4 = 0.5;
 
+  // static constexpr double Kp1 = 100, Kd1 = 1.0;
+  // static constexpr double Kp2 = 100, Kd2 = 1.0;
+  // static constexpr double Kp3 = 100, Kd3 = 1.0;
+  // static constexpr double Kp4 = 100, Kd4 = 1.0;
+  
   if (!init)
   {
     target_pos1 = joint1->GetActualPosition();
